@@ -1,2 +1,2 @@
-# website-two
+# Website-Two
 My two is a website
